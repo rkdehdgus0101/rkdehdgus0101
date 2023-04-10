@@ -23,6 +23,8 @@
 ## information
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rkdehdgus0101&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rkdehdgus0101)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka)
 
