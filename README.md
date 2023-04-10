@@ -1,6 +1,9 @@
 ## Hi there!
-
 <br>
+#### SNS
+<a href="" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+
 
 #### Platforms
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/windows11-0078D4?style=flat-square&logo=windows11&logoColor=white"/></a>
