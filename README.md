@@ -1,5 +1,19 @@
+<h3>Platforms & Languages</h3>
+<a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 
+<a target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
+<a target="_blank"><img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
+
+<br>
+
+<a target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+
+<br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka)
 
