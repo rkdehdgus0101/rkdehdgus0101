@@ -1,3 +1,7 @@
+## Hi there!
+
+<br>
+
 #### Platforms
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/windows11-0078D4?style=flat-square&logo=windows11&logoColor=white"/></a>
 <a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
