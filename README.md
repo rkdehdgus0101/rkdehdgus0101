@@ -3,8 +3,8 @@
 
 #### SNS
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/rkdehdgus01/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/ZOxKAeGU0ioEqjq" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 
 
 #### Platforms
