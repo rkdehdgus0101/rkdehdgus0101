@@ -31,7 +31,7 @@
 
 ## information
 
-<img height="130cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka">
+<img height="130cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rkdehdgus0101&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
