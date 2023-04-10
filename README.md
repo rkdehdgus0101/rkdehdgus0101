@@ -1,4 +1,8 @@
-#### Platforms & Languages
+#### Platforms
+<a target="_blank"><img src="https://img.shields.io/badge/windows11-0078D4?style=flat-square&logo=windows11&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+
+#### Languages & Framework
 <a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
