@@ -31,6 +31,8 @@
 
 ## information
 
+<img height="130cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rkdehdgus0101&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -38,5 +40,3 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=rkdehdgus0101&show_icons=true&theme=tokyonight">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdehdgus0101&layout=compact&theme=tokyonight">
 </p>
-
-<img height="130cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka">
