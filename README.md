@@ -1,6 +1,6 @@
 #### Platforms
-<a target="_blank"><img src="https://img.shields.io/badge/windows11-0078D4?style=flat-square&logo=windows11&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/windows11-0078D4?style=flat-square&logo=windows11&logoColor=white"/></a>
+<a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 
 #### Languages & Framework
 <a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
 <br>
-<a target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <br>
 
 ## information
