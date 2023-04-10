@@ -27,9 +27,7 @@
 
 <img height="130cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdehdgus0101&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=rkdehdgus0101&show_icons=true&theme=tokyonight">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdehdgus0101&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="100em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rkdehdgus0101&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdehdgus0101&layout=compact&theme=tokyonight)">
 </p>
