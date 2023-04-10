@@ -1,13 +1,13 @@
 <h3>Platforms & Languages</h3>
-<a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
-<a target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
-<a target="_blank"><img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
-<a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-<a target="_blank"><img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
 
 <br>
 
