@@ -24,6 +24,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rkdehdgus0101&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<img height="100cm" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rangaka)](https://solved.ac/rangaka)
 
 
