@@ -13,9 +13,9 @@
 <br>
 
 #### Toots
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 
 
 
